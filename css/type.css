@@ -1,0 +1,98 @@
+.headline1 {
+    font-weight: lighter;
+    font-size: 130px;
+    letter-spacing: -1.5px;
+    font-family: 'Aileron', cursive;
+}
+
+.headline2 {
+    font-weight: lighter;
+    font-size: 60px;
+    letter-spacing: -0.5px;
+    font-family: 'Aileron', cursive;
+}
+
+.paragraph1 {
+    font-size: 25px;
+    letter-spacing: 1px;
+    line-height: 30px;
+    font-family: 'Helvetica', cursive;
+    text-align: left;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+.paragraph2 {
+    font-size: 20px;
+    letter-spacing: .5px;
+    font-family: 'Helvetica', cursive;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
+
+.headline3 {
+    font-weight: normal;
+    font-size: 48px;
+    letter-spacing: 0px;
+}
+
+.headline4 {
+    font-weight: normal;
+    font-size: 34px;
+    letter-spacing: 0.25px;
+}
+
+.headline5 {
+    font-weight: normal;
+    font-size: 24px;
+    letter-spacing: 0px;
+}
+
+.headline6 {
+    font-weight: medium;
+    font-size: 20px;
+    letter-spacing: 0.15px;
+}
+
+.headline7{
+  font-weight: lighter;
+  font-size: 60px;
+  letter-spacing: -0.5px;
+  font-family: 'Aileron', cursive;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.headline8{
+  font-weight: lighter;
+  font-size: 40px;
+  letter-spacing: -0.5px;
+  font-family: 'Helvetica', cursive;
+  text-decoration: none;
+  padding-top: 25px;
+}
+
+.subtitle1 {
+    font-weight: normal;
+    font-size: 16px;
+    letter-spacing: 0.15px;
+}
+
+.subtitle2 {
+    font-weight: bolder;
+    font-size: 14px;
+    letter-spacing: 0.1px;
+}
+
+.body1 {
+    font-weight: normal;
+    font-size: 16px;
+    letter-spacing: 0.5px;
+}
+
+.body2 {
+    font-weight: normal;
+    font-size: 14px;
+    letter-spacing: 0.25px;
+}

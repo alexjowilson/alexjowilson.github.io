@@ -1,0 +1,45 @@
+.programs {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-column-gap: 50px;
+    padding-bottom: 10%;
+}
+
+.programcontainer1 {
+    /* width: 300px;
+    height: 300px;
+    background-image:  url("../programs-images/connected-globe.jpg");
+    background-size: 300px 300px; */
+    padding-top: 25%;
+    text-align: center;
+    color: rgb(105, 105, 105);
+}
+
+.programcontainer2 {
+    /* width: 300px;
+    height: 300px;
+    background-image:  url("../programs-images/peace-sign.png");
+    background-size: 300px 300px; */
+    padding-top: 25%;
+    text-align: center;
+    color:rgb(105, 105, 105);
+}
+
+.programcontainer3 {
+    /* width: 300px;
+    height: 300px;
+    background-image:  url("../programs-images/net-neutrality.jpeg");
+    background-size: 300px 300px; */
+    padding-top: 25%;
+    text-align: center;
+    color: rgb(105, 105, 105);
+}
+
+.programs a {
+    text-decoration: none;
+}
+
+.programs h1 {
+    padding-top: 5%;
+}
+

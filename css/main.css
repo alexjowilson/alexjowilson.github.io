@@ -1,0 +1,81 @@
+/* Local imports for other css files */
+@import "./type.css";
+@import "./header.css";
+@import "./button.css";
+@import "./container.css";
+@import "./author-card.css";
+@import "./newsletter-banner.css";
+@import "./footer.css";
+
+@import "./home-page.css";
+
+/* Global css values that will be used in multiple stylesheets */
+/* How to use as a value: var(--primary) for example */
+
+:root {
+    --primary: #006FE6;
+    --primary-light: #66a8f0;
+    --primary-dark: #004da1;
+
+    --secondary: #fff;
+    --secondary-light: #fff;
+    --secondary-dark: #fff;
+
+    --on-primary: #fff;
+    --on-secondary: #fff;
+
+    --background: #f7f7f7;
+    --on-background: #2b2b2b;
+}
+
+/* reset defaults */
+*, *::before, *::after {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.wrapper {
+    max-width: 1366px;
+    margin: 0 auto;
+}
+
+body {
+  font-family: 'Aileron', sans-serif;
+  background-color: var(--background);
+}
+
+.section2 p{
+  line-height: 45px;
+  margin-bottom: 50px;
+}
+
+.section2 h2 {
+  margin: 100px 0px;
+  color: var(--primary);
+}
+
+/* @media only screen and (max-width: 1366px) {
+    .wrapper {
+      max-width: 1024px;
+    }
+  }
+
+  @media only screen and (max-width: 1024px) {
+    .wrapper {
+      max-width: 768px;
+    }
+  }
+
+  @media only screen and (max-width: 768px) {
+    .wrapper {
+      max-width: 480px;
+    }
+
+  }
+
+  @media only screen and (max-width: 480px) {
+    .wrapper {
+      max-width: 100%;
+    }
+  } */
