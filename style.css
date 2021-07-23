@@ -26,7 +26,7 @@ html{
 
 .navbar.sticky{
     padding: 15px 0;
-    background: limegreen;
+    background: #4a5cff;
 }
 
 .navbar .max-width{
@@ -42,7 +42,7 @@ html{
 }
 
 .navbar .logo a span{
-    color: limegreen;
+    color: #4a5cff;
     transition: all 0.3s ease;
 }
 
@@ -65,7 +65,7 @@ html{
 }
 
 .navbar .menu li a:hover{
-    color: limegreen;
+    color: #4a5cff;
 }
 
 .navbar.sticky .menu li a:hover{
@@ -83,7 +83,7 @@ html{
     position: fixed;
     height: 45px;
     width: 42px;
-    background: limegreen;
+    background: #4a5cff;
     right: 30px;
     bottom: 10px;
     text-align: center;
@@ -110,7 +110,7 @@ html{
 /* Home Section Styling */
 .home{
     display:flex;
-    background: url("images/Me.jpg") no-repeat center;
+    background: url("images/space.jpeg") no-repeat center;
     background-size: cover;
     background-attachment:fixed; /* he put fixed in the video */
     height: 150vh;
@@ -139,19 +139,19 @@ html{
 }
 
 .home .home-content .text-3 span{
-    color: limegreen;
+    color: #edff4a;
     font-weight: 500;
 }
 
 .home .home-content a{
     display: inline-block;
-    background-color: limegreen;
+    background-color: #4a5cff;
     color: white;
     font-size: 25px;
     padding: 12px 25px;
     margin-top: 20px;
     border-radius: 6px;
-    border: 2px solid limegreen;
+    border: 2px solid #4a5cff;
     transition: all 0.3s ease;
 }
  
@@ -200,7 +200,7 @@ section .title::after{
     bottom: -12px;
     left: 50%;
     font-size: 20px;
-    color: limegreen;
+    color: #4a5cff;
     padding: 5px;
     background: #fff;
     transform: translateX(-50%);
@@ -228,25 +228,25 @@ section .title::after{
     margin-bottom: 10px;
 }
 .about .about-content .right .text span{
-    color: limegreen;
+    color: #4a5cff;
 }
 .about .about-content .right p{
     text-align: justify;
 }
 .about .about-content .right a{
     display: inline-block;
-    background-color: limegreen;
+    background-color: #4a5cff;
     color: white;
     font-size: 20px;
     font-weight: 500;
     padding: 10px 30px;
     margin-top: 20px;
     border-radius: 6px;
-    border: 2px solid limegreen;
+    border: 2px solid #4a5cff;
     transition: all 0.3s ease;
 }
 .about .about-content .right a:hover{
-    color: limegreen;
+    color: #4a5cff;
     background: none;
 }
 
@@ -272,7 +272,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .project .project-content .card:hover {
-    background: limegreen;
+    background: #4a5cff;
 }
 .project .project-content .card .box{
     transition: all 0.3s ease;
@@ -282,7 +282,7 @@ section .title::after{
 }
 .project .project-content .card i{
     font-size: 50px;
-    color: limegreen;
+    color: #4a5cff;
     transition: color 0.3s ease;
 }
 .project .project-content .card:hover i {
@@ -307,7 +307,7 @@ section .title::after{
     margin-bottom: 10px;
 } 
 .skills .skills-content .left p span {
-    color: limegreen;
+    color: #4a5cff;
     font-weight: 500;
     font-size: 17px;
 }
@@ -316,17 +316,17 @@ section .title::after{
 }
 .skills .skills-content .left a{
     display: inline-block;
-    background-color: limegreen;
+    background-color: #4a5cff;
     color: white;
     font-size: 18px;
     font-weight: 500;
     padding: 8px 16px;
     margin-top: 20px;
     border-radius: 6px;
-    border: 2px solid limegreen;
+    border: 2px solid #4a5cff;
 }
 .skills .skills-content .left a:hover{
-    color: limegreen;
+    color: #4a5cff;
     background: none;
 }
 .skills .skills-content .right .bars{
@@ -354,7 +354,7 @@ section .title::after{
     height: 100%;
     left: 0;
     top: 0;
-    background: limegreen;
+    background: #4a5cff;
 }
 .skills .skills-content .right .java::before{
     width: 90%;
@@ -384,7 +384,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .hobbies .carousel .card:hover{
-    background: limegreen;
+    background: #4a5cff;
 }
 .hobbies .carousel .card .box{
     display: flex;
@@ -405,7 +405,7 @@ section .title::after{
     width: 150px;
     object-fit: cover;
     border-radius: 50%;
-    border: 5px solid limegreen;
+    border: 5px solid #4a5cff;
     transition: all 0.3s ease;
 }
 .hobbies .carousel .card:hover img{
@@ -421,7 +421,7 @@ section .title::after{
     margin:0 5px;
     outline: none!important;
     border-radius: 50%;
-    border: 2px solid limegreen!important;
+    border: 2px solid #4a5cff!important;
     transition: all 0.3s ease;
 }
 .owl-dot.active{
@@ -429,7 +429,7 @@ section .title::after{
     border-radius: 14px;
 }
 .owl-dot.active, .owl-dot:hover{
-    background: limegreen!important; 
+    background: #4a5cff!important; 
 }
 
 /* Content Styling Section */
@@ -460,7 +460,7 @@ section .title::after{
 }
 .contact .contact-content .row i{
     font-size: 25px;
-    color: limegreen;
+    color: #4a5cff;
 }
 .contact .contact-content .info .head{
     font-weight: 500;
@@ -509,8 +509,8 @@ section .title::after{
 .contact .right form .button button{
     width: 100%;
     height: 100%;
-    border: 2px solid limegreen;
-    background: limegreen;
+    border: 2px solid #4a5cff;
+    background: #4a5cff;
     color: #fff;
     font-size: 20px;
     font-weight: 500;
@@ -519,7 +519,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .contact .right form .button button:hover{
-    color: limegreen;
+    color: #4a5cff;
     background: none;
 }
 
@@ -530,7 +530,7 @@ footer{
     color: #fff;
 }
 footer span a{
-    color: limegreen; 
+    color: #4a5cff; 
     text-decoration: none;
 }
 footer span a:hover{
